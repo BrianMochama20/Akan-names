@@ -49,7 +49,29 @@
     <div class="class">
         <h1>AKAN NAME GENERATOR</h1>
     </div>
-
+    <div class="middle">
+        <strong><p><em>ABOUT</em></p></strong>  
+             <strong>
+              <p>This form takes your birthday and calculates the day of the week you were</p>
+              <p>born and then depending on your gender outputs your Akan Name.</p>
+              &nbsp;
+              <div class="no-color" style="background-image: url('images/hd10.jpg');">
+                  <p style="color:black;">Please enter your details correctly to view your Akan name</p>
+              </strong>
+           <form class="form-group">
+   
+               <label for="day"></label><input type="number" id="day" required name="day" placeholder="day" class="form-control" min="1" max="31">
+               <label for="month"></label><input type="number" id="month" required name="month" placeholder="month" class="form-control" min="1" max="12">
+               <label for="year"></label><input type="number" id="year" required name="year" placeholder="year" class="form-control">
+              <label for="gender"></label>
+              <select name="gender" id="gender">
+                  <option value="male">male</option>
+                  <option value="female">female</option>
+              </select>
+              <input type="submit" id="submit" value="submit" onclick="akan()">
+           
+           </form>
+              </div>
 
 
 
