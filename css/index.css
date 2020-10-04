@@ -1,0 +1,23 @@
+body{
+    background-color:white;
+    color:whitesmoke;
+    font-family: fantasy;
+    
+
+}
+.class{
+    text-align: center;
+    margin-top: 2%;
+    font-style: itaic;
+    color:white;
+    font-family:Berkshire Swash;
+}
+.output{
+    background-color: darkgoldenrod;
+}
+nav{
+text-align: center;
+color: white;
+margin-left: -3%;
+
+}
