@@ -65,20 +65,13 @@ width: 30%;
     width: 100%;
     text-align: center;
     font-size: 30px;
-    border-top: 5px solid black;
+    border-top: 5px solid blueviolet;
     float: left;
     margin-top: 50px;
 }
 footer{
-    background-color:darkblue;
+    background-color:rgb(0, 139, 86);
     height: 200px;
-}
-.sec1{
-
-    background-image: url();
-    min-height: 1070px;
-    text-align: center;
-    color:lightcyan;
 }
 .middle{
     margin-top: 5%;
@@ -87,16 +80,8 @@ footer{
     margin-left: 5%;
     font-style: bold;
 }
-.top-text{
-    background-image: url();
-    height: 300px;
-    text-align: center;
-    margin-top: ;
-}
-.top-text p{
-    text-align: center;
    
-}
+
 .end-2 img{
     width: 150px;
     height: 150px;
