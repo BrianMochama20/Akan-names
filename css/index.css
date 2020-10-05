@@ -21,3 +21,99 @@ color: white;
 margin-left: -3%;
 
 }
+nav ul{
+    display: inline-flex;
+    list-style: none;
+}
+nav ul li a{
+    text-decoration: none;
+    padding: 7px;
+    color: black;
+    color:lightsalmon;
+
+}
+
+nav ul li a:hover{
+    color:whitesmoke;
+}
+.header{
+background-color:darkblue;
+height: 100px;
+
+}
+.form{
+    float: center;
+    align-content: center;
+    /* margin-left: 10%; */
+    /* margin-top: 5%; */
+}
+.bottom-right{
+    float: right;
+    width: 50%;
+    margin-top: 50px;
+}
+.bottom-left{
+    float: left;
+    width: 40%;
+    margin-left: 10%;
+    margin-top: 50px;
+}
+.bottom-right i, .bottom-left i{
+width: 30%;
+}
+.bottom2{
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+    border-top: 5px solid black;
+    float: left;
+    margin-top: 50px;
+}
+footer{
+    background-color:darkblue;
+    height: 200px;
+}
+.sec1{
+
+    background-image: url();
+    min-height: 1070px;
+    text-align: center;
+    color:lightcyan;
+}
+.middle{
+    margin-top: 5%;
+    color:black;
+    font-size:x-large;
+    margin-left: 5%;
+    font-style: bold;
+}
+.top-text{
+    background-image: url();
+    height: 300px;
+    text-align: center;
+    margin-top: ;
+}
+.top-text p{
+    text-align: center;
+   
+}
+.end-2 img{
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin-top: -2%;
+}
+.end-2 p{
+    float: left;
+    line-height: 5px;
+}
+.end-2{
+    margin-top: 10%;
+    margin-left: 20%;
+}
+.no-color{
+    float: center;
+    margin-left: 20%;
+    width: 600px;
+    height: 150px;
+}
